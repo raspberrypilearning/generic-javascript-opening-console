@@ -1,19 +1,10 @@
-## Introduction
+### Google Chrome
+Click the three dots on the far right of the address bar, then select `More tools` > `Developer tools`
+![JavaScript console on Chrome](images/js-console.png)
 
-Add project description here. What will learners be making?
+### Microsoft Internet Explorer / Edge
+Press F12 and then click on the tab labelled **console**
+![JavaScript console on IE](images/ie-js-console.png)
 
-### What you will make
-
-Add something here to showcase here, for example:
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+### Safari
+On the top menu, click on `Develop` > `Show Error Console`. If your menu does not have `Develop` on it, enable the developer tools by clicking on `Safari` > `Preferences` and then on the `Advanced` tab, tick the box labelled `Show Develop menu in menu bar`.
