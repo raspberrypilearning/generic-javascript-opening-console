@@ -1,8 +1,8 @@
 ### Google Chrome
-Click the three dots on the far right of the address bar, then click **More tools** > **Developer tools**. ![JavaScript console on Chrome](images/js-console.png)
+एड्रेस बार के दायीं ओर तीन डॉट्स पर क्लिक करें, फिर क्लिक करें **More tools** > **Developer tools**। ![Chrome पर JavaScript कंसोल](images/js-console.png)
 
 ### Microsoft Internet Explorer / Edge
-Press **F12** and then click on the tab labelled **console** ![JavaScript console on IE](images/ie-js-console.png)
+**F12** दबाएं और फिर **console** लेबल वाले टैब पर क्लिक करें ![IE पर JavaScript कंसोल](images/ie-js-console.png)
 
 ### Safari
-In the top menu, click on **Develop** > **Show Error Console**. If your menu does not have **Develop** on it, enable the developer tools by clicking on **Safari** > **Preferences** and then on the **Advanced** tab. There, tick the box labelled **Show Develop menu in menu bar**.
+शीर्ष मेन्यू में, **Develop** > **Show Error Console** पर क्लिक करें। यदि आपके मेन्यू में **Develop** नहीं है, **Safari** > **Preferences** और फिर **Advanced** टैब पर क्लिक करके डेवलपर (Developer) टूल को सक्षम करें। वहां, **Show Develop menu in menu bar** लेबल वाले बॉक्स को टिक करें।
